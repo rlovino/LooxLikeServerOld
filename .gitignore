@@ -180,3 +180,32 @@ $RECYCLE.BIN/
 
 # Visual Studio 2014 CTP
 **/*.sln.ide
+packages/Microsoft.AspNet.WebApi.5.2.3/Microsoft.AspNet.WebApi.5.2.3.nupkg
+packages/Microsoft.AspNet.WebApi.Client.5.2.3/Microsoft.AspNet.WebApi.Client.5.2.3.nupkg
+packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.dll
+packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.xml
+packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.dll
+packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8%2Bnetcore45%2Bnet45%2Bwp81%2Bwpa81/System.Net.Http.Formatting.xml
+packages/Microsoft.AspNet.WebApi.Core.5.2.3/Content/web.config.transform
+packages/Microsoft.AspNet.WebApi.Core.5.2.3/Microsoft.AspNet.WebApi.Core.5.2.3.nupkg
+packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.dll
+packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.xml
+packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/Microsoft.AspNet.WebApi.WebHost.5.2.3.nupkg
+packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/lib/net45/System.Web.Http.WebHost.dll
+packages/Microsoft.AspNet.WebApi.WebHost.5.2.3/lib/net45/System.Web.Http.WebHost.xml
+packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg
+packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/portable-net40%2Bsl5%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/portable-net40%2Bsl5%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/lib/portable-net45%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.dll
+packages/Newtonsoft.Json.6.0.4/lib/portable-net45%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.xml
+packages/Newtonsoft.Json.6.0.4/tools/install.ps1
