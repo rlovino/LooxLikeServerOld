@@ -4,8 +4,8 @@ before_build:
 deploy:
   release: myproduct-v$(appveyor_build_version)
   provider: GitHub
-  auth_token:
-    secure: 45fa9084af6d1ee54ee58062292ec752610e67d9 # your encrypted token from GitHub
+ # auth_token:
+  #  secure: 45fa9084af6d1ee54ee58062292ec752610e67d9 # your encrypted token from GitHub
   artifact: /.*\.nupkg/            # upload all NuGet packages to release assets
   draft: false
   prerelease: false
