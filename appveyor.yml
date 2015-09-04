@@ -26,7 +26,6 @@ build:
  # - path: test.zip  
 
 after_build:
-  ls LooxLikeAPI\bin\
   7z a myapp.zip projects\looxlikeserver\LooxLikeAPI\bin\*.dll
 
 
