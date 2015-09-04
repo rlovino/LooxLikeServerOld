@@ -9,6 +9,8 @@ namespace LooxLikeAPI
     {
         public static void Register(HttpConfiguration config)
         {
+			config.EnableSystemDiagnosticsTracing();
+
             // Web API configuration and services
 
             // Web API routes
