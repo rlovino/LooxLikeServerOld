@@ -29,5 +29,5 @@ deploy:
   provider: GitHub
   auth_token:
     secure: PHg9/N+HBfydId7cus+Vt9ag7Oa2tpXrclSuKACGdaWKKR2A0NuE+thmQn4RY9bc
-  artifact: C:\projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
+  artifact: projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
 #
