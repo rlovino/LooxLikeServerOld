@@ -30,7 +30,7 @@ artifacts:
     name: bellaciccio
 
 after_build:
-  ls
+  ls LooxLikeAPI\bin\
 
 deploy:
   provider: GitHub
