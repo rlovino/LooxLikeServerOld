@@ -28,7 +28,10 @@ build:
 artifacts:
   - path: projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
     name: bellaciccio
- 
+
+after_build:
+  ls
+
 deploy:
   provider: GitHub
   auth_token:
