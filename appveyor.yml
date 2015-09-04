@@ -25,12 +25,15 @@ build:
   # pushing a single file
  # - path: test.zip  
 
-artifacts:
-  - path: projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
-    name: bellaciccio
-
 after_build:
   ls LooxLikeAPI\bin\
+  7z a myapp.zip path\to\bin\*.dll
+
+
+artifacts:
+  - path: myapp.zip
+    name: bellaciccio
+
 
 deploy:
   provider: GitHub
