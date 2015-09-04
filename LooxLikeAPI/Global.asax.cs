@@ -18,10 +18,6 @@ namespace LooxLikeAPI
 			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
 			RouteConfig.RegisterRoutes(RouteTable.Routes);
 			BundleConfig.RegisterBundles(BundleTable.Bundles);
-
-
-			RegisterRoutes(RouteTable.Routes);
-			RouteDebug.RouteDebugger.RewriteRoutesForTesting(RouteTable.Routes);
 		}
 	}
 }
