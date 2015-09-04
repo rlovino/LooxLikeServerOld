@@ -20,10 +20,10 @@ before_build:
 build:
   verbosity: minimal
 
-artifacts:
+#artifacts:
 
   # pushing a single file
-  - path: test.zip  
+ # - path: test.zip  
 
 deploy:
 - provider: GitHub
