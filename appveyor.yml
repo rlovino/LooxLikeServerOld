@@ -25,9 +25,12 @@ build:
   # pushing a single file
  # - path: test.zip  
 
+artifacts:
+  - path: projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
+    name: bellaciccio
+ 
 deploy:
   provider: GitHub
   auth_token:
     secure: PHg9/N+HBfydId7cus+Vt9ag7Oa2tpXrclSuKACGdaWKKR2A0NuE+thmQn4RY9bc
-  artifact: projects\looxlikeserver\LooxLikeAPI\bin\LooxLikeAPI.dll
 #
