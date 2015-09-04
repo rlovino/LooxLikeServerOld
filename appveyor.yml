@@ -19,6 +19,12 @@ before_build:
   - nuget restore
 build:
   verbosity: minimal
+
+artifacts:
+
+  # pushing a single file
+  - path: test.zip  
+
 deploy:
 - provider: GitHub
   auth_token:
